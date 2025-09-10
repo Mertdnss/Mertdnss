@@ -3,7 +3,7 @@
 <h1 align="center">👋 Merhaba, ben Mert</h1>
 
 <p align="center">
-🚀 Yazılım geliştirici & girişimci adayım | 🌐 Web teknolojileri • 🤖 Yapay Zeka • 🎓 Eğitim  
+🚀 Yazılım geliştirici adayı | 🌐 Web teknolojileri • 🤖 Yapay Zeka • 🎓 Eğitim  
 </p>
 
 ---
